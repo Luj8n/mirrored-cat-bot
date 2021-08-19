@@ -1,3 +1,7 @@
+### This project has been redone with typescript and moved to [theme-twitch-bot](https://github.com/Luj8n/theme-twitch-bot). This is now archived
+
+---
+
 # mirrored-cat-bot
 A small twitch bot, that lets viewers change streamer's VSCode themes, fonts and font size.
 
